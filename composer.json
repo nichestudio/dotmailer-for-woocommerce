@@ -1,6 +1,7 @@
 {
 	"name" : "dotdigital/engagement-cloud-for-woocommerce",
 	"version" : "1.0.0",
+	"type": "wordpress-plugin",
 	"require-dev" : {
 		"squizlabs/php_codesniffer" : "*"
 	}
